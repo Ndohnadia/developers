@@ -2,3 +2,6 @@ Amount
 date paid
 expiring date
 hired puchase
+balansheet
+Landmark
+watermark
