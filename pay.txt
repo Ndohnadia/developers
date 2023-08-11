@@ -1,0 +1,4 @@
+Amount
+date paid
+expiring date
+hired puchase
